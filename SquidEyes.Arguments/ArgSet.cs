@@ -1,7 +1,6 @@
-﻿namespace SquidEyes.Arguments
-{
-    public class ArgSet
-    {
+﻿namespace SquidEyes.Arguments;
 
-    }
+public class ArgSet
+{
+
 }
